@@ -1,0 +1,11 @@
+FSAD Skill Experiment 1
+Git Version Control
+
+Files created:
+1. Main.java
+2. notes.txt
+
+Purpose:
+To understand basic Git commands like init, add, commit, branch and merge.
+
+Feature update branch modification
