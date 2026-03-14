@@ -1001,3 +1001,123 @@ java.io.IOException: Process timed-out and it was attempted to forcefully termin
 	at org.eclipse.ui.internal.WindowsDefenderConfigurator.lambda$0(WindowsDefenderConfigurator.java:106)
 	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:187)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 21:50:29.596
+!MESSAGE 21:50:29.585 [pool-3-thread-7] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_01/src/skill1/Main.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 21:50:32.060
+!MESSAGE 21:50:30.393 [pool-5-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Creating name env for project 'FSAD_SKILL_01'
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 21:59:03.231
+!MESSAGE 21:50:32.082 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_01/src/skill1/Main.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 21:59:03.316
+!MESSAGE 21:59:03.313 [pool-3-thread-11] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_01/src/skill1/package-info.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 21:59:03.491
+!MESSAGE 21:59:03.483 [pool-3-thread-13] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_01/src/skill1/package-info.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 21:59:03.905
+!MESSAGE 21:59:03.789 [pool-5-thread-2] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_01/src/skill1/package-info.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:25:25.466
+!MESSAGE 22:25:25.448 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 2
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:25:25.983
+!MESSAGE 22:25:25.684 [pool-3-thread-15] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_01/src/skill1/Main.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:25:26.053
+!MESSAGE 22:25:26.052 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_01/src/skill1/Main.java done in 71ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:30:00.674
+!MESSAGE 22:29:53.297 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_04/Main.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:30:07.483
+!MESSAGE 22:30:07.322 [pool-3-thread-20] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_02/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:31:59.703
+!MESSAGE 22:31:41.356 [pool-3-thread-23] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_02/Main.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:32:10.370
+!MESSAGE 22:32:09.582 [pool-3-thread-24] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_02/Product.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:33:22.398
+!MESSAGE 22:33:22.391 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:33:28.166
+!MESSAGE 22:33:23.682 [pool-3-thread-25] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_03/HQLDemo.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:33:33.059
+!MESSAGE 22:33:28.299 [pool-3-thread-26] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_04/Main.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:33:34.004
+!MESSAGE 22:33:33.223 [pool-3-thread-27] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_04/Student.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:33:39.486
+!MESSAGE 22:33:35.218 [pool-3-thread-26] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_04/Main.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:33:43.883
+!MESSAGE 22:33:43.881 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:33:48.337
+!MESSAGE 22:33:44.037 [pool-3-thread-27] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_05/Certification.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:33:50.119
+!MESSAGE 22:33:50.116 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:33:50.253
+!MESSAGE 22:33:50.125 [pool-3-thread-27] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_05/Main.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:33:55.217
+!MESSAGE 22:33:55.215 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_05/Student.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:34:03.143
+!MESSAGE 22:33:59.294 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_05/Main.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:34:08.941
+!MESSAGE 22:34:08.940 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:34:23.882
+!MESSAGE 22:34:08.947 [pool-3-thread-25] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_06/LibraryController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:34:27.056
+!MESSAGE 22:34:27.054 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 1
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:34:31.404
+!MESSAGE 22:34:27.197 [pool-3-thread-25] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_07/CourseAPI.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:34:43.144
+!MESSAGE 22:34:36.167 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_08/ProductQuery.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:34:59.170
+!MESSAGE 22:34:54.455 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_09/ExceptionDemo.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:35:28.592
+!MESSAGE 22:34:59.763 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_09/ExceptionDemo.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:36:00.445
+!MESSAGE 22:35:50.917 [pool-3-thread-28] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_09/ExceptionDemo.java
+
+!ENTRY org.eclipse.jface 2 0 2026-03-14 22:36:12.105
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2026-03-14 22:36:12.105
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolInWorkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolInWorkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-03-14 22:36:28.500
+!MESSAGE 22:36:22.964 [pool-3-thread-25] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sivar/Downloads/FSAD/FSAD_SKILL_09/ExceptionDemo.java
