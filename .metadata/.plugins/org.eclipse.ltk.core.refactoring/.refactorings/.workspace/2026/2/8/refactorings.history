@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;DemoOnSpring_S53_v2&apos;" deleteContents="false" description="Delete resource &apos;DemoOnSpring_S53_v2&apos;" element1="/DemoOnSpring_S53_v2" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1771474706423"/>&#x0A;<refactoring comment="Delete resource &apos;S53_Restful_JPA&apos;" deleteContents="false" description="Delete resource &apos;S53_Restful_JPA&apos;" element1="/S53_Restful_JPA" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1771553951733"/>
-</session>
