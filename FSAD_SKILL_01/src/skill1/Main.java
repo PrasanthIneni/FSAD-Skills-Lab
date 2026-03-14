@@ -4,4 +4,4 @@ public class Main {
         System.out.println("Git Version Control Lab");
         System.out.println("This is the initial version.");
     }
-}
+}	
